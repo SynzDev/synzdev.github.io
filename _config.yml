@@ -33,7 +33,7 @@ projects:
     forks: true
     projects:
       - blog
-      - jishanshaikh4.github.io
+      - synzdev.github.io
       - is-cv
       - sas
       
@@ -44,20 +44,20 @@ projects:
 
 social_media:
   # github: jishanshaikh4 NOT WORKING :)
-  linkedin: jishanshaikh4
-  instagram: j15h4n
+  #linkedin: jishanshaikh4
+  #instagram: j15h4n
   # website: https://jishanshaikh4.github.io/
-  twitter: jishanshaikh41
-  hackerrank: jishanshaikh
-  facebook: zishan.shhaikh
+  #twitter: jishanshaikh41
+  #hackerrank: jishanshaikh
+  #facebook: zishan.shhaikh
   # telegram: jishanshaikh4
-  dribbble: jishanshaikh4
+  #dribbble: jishanshaikh4
   # behance: your_username
   # codepen: jishanshaikh4
   # keybase: your_username
   # mastodon: your_username
   # medium: jishanshaikh4
-  stackoverflow: 8458465
+  #stackoverflow: 8458465
   #telegram: jishanshaikh4 
   # quora: jishan-shaikh-11
   # unsplash: your_username
@@ -71,16 +71,16 @@ posts:
   - name: xyz
 
 topics:
-  - name: Machine Learning Papers 2021
-    web_url: https://www.github.com/jishanshaikh4/ml-papers
+  - name: API Development
+    web_url: https://www.github.com/synzdev/synz-music-system
     image_url: https://upload.wikimedia.org/wikipedia/commons/6/69/EM_Clustering_of_Old_Faithful_data.gif
     
-  - name: Learning R for Data Science
-    web_url: https://en.wikipedia.org/wiki/R
+  - name: Anti Links
+    web_url: https://www.github.com/synzdev/synz-anti-link
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Mandelbrot_Creation_Animation.gif/400px-Mandelbrot_Creation_Animation.gif
 
-  - name: Exploring TDD for Python stack
-    web_url: https://github.com/jishanshaikh4/
+  - name: Exploring BackEnd Dev For JS
+    web_url: https://github.com/synzdev/
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/TDD_Global_Lifecycle.png/220px-TDD_Global_Lifecycle.png
 
 theme: jekyll-theme-cayman
